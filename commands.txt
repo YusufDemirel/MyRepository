@@ -4,3 +4,4 @@ git commit -m "(committed msg)" filename
 git push -u origin master
 git status
  
+http://www.codebind.com/linux-tutorials/basic-git-commands-list/
