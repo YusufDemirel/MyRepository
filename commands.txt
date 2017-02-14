@@ -1,3 +1,4 @@
+cd /c
 cd MyRepository/
 git add filename
 git commit -m "(committed msg)" filename
